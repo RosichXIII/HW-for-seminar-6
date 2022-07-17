@@ -1,0 +1,15 @@
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.csproj.AssemblyReference.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.AssemblyInfoInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.AssemblyInfo.cs
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.csproj.CoreCompileInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\bin\Debug\net6.0\Задача43.exe
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\bin\Debug\net6.0\Задача43.deps.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\bin\Debug\net6.0\Задача43.runtimeconfig.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\bin\Debug\net6.0\Задача43.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\bin\Debug\net6.0\Задача43.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\refint\Задача43.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\Задача43.genruntimeconfig.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\Задачи\Задача43\obj\Debug\net6.0\ref\Задача43.dll

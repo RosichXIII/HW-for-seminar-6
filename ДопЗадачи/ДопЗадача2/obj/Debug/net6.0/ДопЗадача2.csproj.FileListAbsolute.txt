@@ -1,0 +1,15 @@
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.csproj.AssemblyReference.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.AssemblyInfoInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.AssemblyInfo.cs
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.csproj.CoreCompileInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\bin\Debug\net6.0\ДопЗадача2.exe
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\bin\Debug\net6.0\ДопЗадача2.deps.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\bin\Debug\net6.0\ДопЗадача2.runtimeconfig.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\bin\Debug\net6.0\ДопЗадача2.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\bin\Debug\net6.0\ДопЗадача2.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\refint\ДопЗадача2.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ДопЗадача2.genruntimeconfig.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 6\ДопЗадачи\ДопЗадача2\obj\Debug\net6.0\ref\ДопЗадача2.dll
